@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 def play (board)
-  if turn=
+  if turn==position_taken
   
   
 end
