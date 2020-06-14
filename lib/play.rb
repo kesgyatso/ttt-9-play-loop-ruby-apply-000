@@ -37,8 +37,8 @@ end
 
 # Define your play method below
 def play (board)
-  if turn==position_taken
-  
-  
+  i=0
+  while i<9
+  turn(board)
 end
 
