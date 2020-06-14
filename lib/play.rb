@@ -33,7 +33,7 @@ def turn(board)
   else
     turn(board)
   end
-end
+
 
 # Define your play method below
 def play (board)
@@ -41,4 +41,6 @@ def play (board)
   while i<9
     turn(board)
   end
+end
+
 end
